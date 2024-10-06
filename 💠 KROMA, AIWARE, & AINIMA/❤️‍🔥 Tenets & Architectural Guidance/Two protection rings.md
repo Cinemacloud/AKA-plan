@@ -1,0 +1,1 @@
+Disaggregation of profit consolidation of elites back towards an absolutely information discovery and exchange medium not centrally mediated and constrained fundamentally (”first priciples” eng)
