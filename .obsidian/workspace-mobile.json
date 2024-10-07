@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70a9be25b025bbf1",
+        "id": "3db3a9c68af0b074",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5606ab984627e7",
+            "id": "ad149a45585f1b8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/Agentic entropy and continuity.md",
+                "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/Agentic entropy and continuity.md",
+            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/Agentic entropy and continuity.md",
+            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/Agentic entropy and continuity.md"
+            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md"
           }
         }
       }
@@ -131,10 +131,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d5606ab984627e7",
+  "active": "ad149a45585f1b8c",
   "lastOpenFiles": [
-    "💠 KROMA, AIWARE, & AINIMA.md",
+    "💠 KROMA, AIWARE, & AINIMA/Distillations/Kroma Post CS based to Unitary Space.md",
+    "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md",
+    "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/Joscha Bach on Agency Definition Dimensions.md",
+    "💠 KROMA, AIWARE, & AINIMA/Distillations",
+    "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/AI as Bio Organism.md",
     "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/Agentic entropy and continuity.md",
+    "💠 KROMA, AIWARE, & AINIMA.md",
     "💠 KROMA, AIWARE, & AINIMA/❤️‍🔥 Tenets & Architectural Guidance/Human & Scene Driven Appealing to “Citizen Hacking” culture as well as 31337 subculture advanced mode(s).md",
     "💠 KROMA, AIWARE, & AINIMA/❤️‍🔥 Tenets & Architectural Guidance/UI-UX.md",
     "💠 KROMA, AIWARE, & AINIMA/❤️‍🔥 Tenets & Architectural Guidance/Tenets & Architectural Guidance.md",
