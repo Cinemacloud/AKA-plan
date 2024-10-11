@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md",
+                "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Mini 4o discourse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md",
+            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Mini 4o discourse.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md",
+            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Mini 4o discourse.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md"
+            "file": "💠 KROMA, AIWARE, & AINIMA/Distillations/Mini 4o discourse.md"
           }
         }
       }
@@ -134,7 +134,19 @@
   "active": "ad149a45585f1b8c",
   "lastOpenFiles": [
     "💠 KROMA, AIWARE, & AINIMA/Distillations/Kroma Post CS based to Unitary Space.md",
-    "💠 KROMA, AIWARE, & AINIMA/Distillations/Untitled.md",
+    "💠 KROMA, AIWARE, & AINIMA/Distillations/Mini 4o discourse.md",
+    "💠 KROMA, AIWARE, & AINIMA/Distillations/Mini 4o AKA Problem Domains.md",
+    "💠 KROMA, AIWARE, & AINIMA/🛠️ Required & Synergistic Tools/Continous Dialogos Integration.md",
+    "💠 KROMA, AIWARE, & AINIMA/Agentic Theory",
+    "💠 KROMA, AIWARE, & AINIMA/Distillations/Mini 4o Full.md",
+    "💠 KROMA, AIWARE, & AINIMA/Distillations/Mini 4o.md",
+    "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/TTDD.md",
+    "README.md",
+    "💠 KROMA, AIWARE, & AINIMA/💠 KROMA, AIWARE, & AINIMA.md",
+    "💠 KROMA, AIWARE, & AINIMA/KROMA, AIWARE, & AINIMA.md",
+    "💠 KROMA, AIWARE, & AINIMA/Meta Prompt for Project Structure.md",
+    "💠 KROMA, AIWARE, & AINIMA/🚦 Visual and Classical Start and Join/ITS - ICE TURN STUN.md",
+    "💠 KROMA, AIWARE, & AINIMA/Strawberry Sugar (Claude, GPT).md",
     "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/Joscha Bach on Agency Definition Dimensions.md",
     "💠 KROMA, AIWARE, & AINIMA/Distillations",
     "💠 KROMA, AIWARE, & AINIMA/🔑 Key Emergent AI architecture/AI as Bio Organism.md",
