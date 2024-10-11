@@ -1,1 +1,1 @@
-Disaggregation of profit consolidation of elites back towards an absolutely information discovery and exchange medium not centrally mediated and constrained fundamentally (”first priciples” eng)
+Protection ring Unix arch-inspired model for 2 ring security. See other chats and distill into detailed usage explanation.
