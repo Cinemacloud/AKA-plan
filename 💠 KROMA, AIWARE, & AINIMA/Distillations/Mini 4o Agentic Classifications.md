@@ -1,22 +1,22 @@
 ### **Classification of Agentic Autonomous AI Components**
 
-|**#**|**Component**|**Classification**|
-|---|---|---|
-|1|**Action Language Models (ALMs)**|Language Processing|
-|2|**Tool and API Integration**|Tool Integration|
-|3|**Function Calling Mechanisms**|Execution|
-|4|**Action Planning and Sequencing**|Planning|
-|5|**Execution Engine**|Execution|
-|6|**Context and State Management**|State Management|
-|7|**Perception and Interpretation Modules**|Perception|
-|8|**Decision-Making Engine**|Decision Making|
-|9|**Learning and Adaptation**|Learning|
-|10|**Interaction Management**|Interaction|
-|11|**Safety and Alignment Mechanisms**|Safety|
-|12|**Monitoring and Logging**|Monitoring|
-|13|**Environment Interaction Interfaces**|Environment Interaction|
-|14|**Advanced Reasoning Capabilities**|Reasoning|
-|15|**Domain-Specific Capabilities**|Domain Specific|
+| **#** | **Component**                             | **Classification**      |
+| ----- | ----------------------------------------- | ----------------------- |
+| 1     | **Action Language Models (ALMs)**         | Language Processing     |
+| 2     | **Tool and API Integration**              | Tool Integration        |
+| 3     | **Function Calling Mechanisms**           | Execution               |
+| 4     | **Action Planning and Sequencing**        | Planning                |
+| 5     | **Execution Engine**                      | Execution               |
+| 6     | **Context and State Management**          | State Management        |
+| 7     | **Perception and Interpretation Modules** | Perception              |
+| 8     | **Decision-Making Engine**                | Decision Making         |
+| 9     | **Learning and Adaptation**               | Learning                |
+| 10    | **Interaction Management**                | Interaction             |
+| 11    | **Safety and Alignment Mechanisms**       | Safety                  |
+| 12    | **Monitoring and Logging**                | Monitoring              |
+| 13    | **Environment Interaction Interfaces**    | Environment Interaction |
+| 14    | **Advanced Reasoning Capabilities**       | Reasoning               |
+| 15    | **Domain-Specific Capabilities**          | Domain Specific         |
 
 ---
 
