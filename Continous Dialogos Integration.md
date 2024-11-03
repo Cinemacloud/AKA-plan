@@ -111,4 +111,4 @@ Dialogos’s architecture balances symbolic and tensor-based interaction, recurs
 - **Flexible and Persistent Lifecycle Management**: Agents transition through provisional, active, and retired states, ensuring responsive interaction and adaptive knowledge retention.
 
 
-Test
+Testing heheh
