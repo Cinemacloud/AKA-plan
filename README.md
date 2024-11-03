@@ -1,4 +1,4 @@
-**Kroma**: Nexus Architecture for Hybrid AI/ML Cloudless Scale-Free Paradigm
+**Kroma**: Nexus Architecture for Hybrid AI/ML Cloudless Scale-Free Paradigml
 
 Browser Native Edge ”BNE” is heterdox standards-based hyperlocal hybrid architecture, decentralizing infrastructure providing a “cloudless” WebRTC/WS overlay establishing routing from SDP endpoints and classic client-server mirror for hybrid level 0 unitary networking and local supercomputing environment.
 
