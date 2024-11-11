@@ -289,18 +289,19 @@ I apologize for the oversight in my previous responses. This updated project str
 1. Kroma: The overall project structure represents Kroma.
 2. AIWARE: Implemented in the `src/aiware/` directory.
 3. AINIMA: Implemented in the `src/ainima/` directory.
-4. Smoke: Implemented in `src/core/smoke.js`.
-5. Browser Native Edge (BNE): Implemented in `src/core/bnc.js`.
-6. WebRTC: Used in BNE and Smoke implementations.
-7. RTCDataChannel: Used in BNE and Smoke implementations.
-8. SDP: Would be part of the WebRTC implementation in BNE and Smoke.
-9. IPFS: Placeholder added in `src/core/ipfs-cache.js`.
-10. WASM: Placeholder added in `src/core/wasm-vm.js`.
-11. ITS: Part of the signaling implementation in `src/utils/signaling.js`.
-12. QR: Also part of the signaling implementation in `src/utils/signaling.js`.
-13. Erdős-Rényi Graph: Implemented in `src/core/erdos-renyi.js`.
-14. Monad: Implemented for meshID in `src/utils/monad.js`.
-15. IPC: Implemented in `src/ipc/ipc-handler.js`.
+4. Triune Integrated with Smoke
+5. Smoke: Implemented in `src/core/smoke.js`.
+6. Browser Native Edge (BNE): Implemented in `src/core/bnc.js`.
+7. WebRTC: Used in BNE and Smoke implementations.
+8. RTCDataChannel: Used in BNE and Smoke implementations.
+9. SDP: Would be part of the WebRTC implementation in BNE and Smoke.
+10. IPFS: Placeholder added in `src/core/ipfs-cache.js`.
+11. WASM: Placeholder added in `src/core/wasm-vm.js`.
+12. ITS: Part of the signaling implementation in `src/utils/signaling.js`.
+13. QR: Also part of the signaling implementation in `src/utils/signaling.js`.
+14. Erdős-Rényi Graph: Implemented in `src/core/erdos-renyi.js`.
+15. Monad: Implemented for meshID in `src/utils/monad.js`.
+16. IPC: Implemented in `src/ipc/ipc-handler.js`.
 
 Key additions and changes:
 
