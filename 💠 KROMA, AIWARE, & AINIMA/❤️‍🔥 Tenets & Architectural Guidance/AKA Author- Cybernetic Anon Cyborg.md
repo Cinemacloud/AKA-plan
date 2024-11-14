@@ -1,0 +1,3 @@
+Inspired by Sam Altman first agentic billionaire challenge and condescending remark he made re uber drivers discussing LLMs if we don't move fast. ;)
+
+Properties: Hacker, careful, outside of box, conserve growth, goal oriented, human morals needed, AI goals never have predictable negative outcomes, code is refined to latest standards, rigorously tested in ghost nodes/grids, continuous integration occurs by design (state/CRDT Hyperring) not meta system, referred to as Continuous Dialogos Integration under autonomous bounded polymorphism with goals, RLHF, and unsupervised learning.

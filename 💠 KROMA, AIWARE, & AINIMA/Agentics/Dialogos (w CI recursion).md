@@ -1,0 +1,6 @@
+[https://github.com/BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent)
+
+Modes of Dialogos:
+1. Standard Dialogos Mode (SDM): in even common use is a essentially a silent cotinuous integration loop of various symbolic and multimodal conversation types, not a static ot centrally processed or govern classic client server model due to BNEC architecture we are creating. This is due to the nst-qismel-mm architecture (NstQismelNN of aiware) [1], BNEC (of kroma) [2], and aural ux primary IO of Piper/browserAPI Based TTS/STT.
+2. Intra Dialogos Mode (IDM): is when the agent is following a plan and iteratively or scheduled  self-prompting/learning, recursively if necessary, to get answer all while operating by aiwaire.
+3. Extra Dialogos Mode (EDM): When an agent is talking to one to mseveral othe agents or LLM APIs to get enhance analysis for synthetic locally integrated summarization, eith metadata and feature extraction for QISMEL monadic mutable and immutable recursion of the NST-EvolQuineQISMEL-mm design of Aiwaire.

@@ -1,0 +1,1 @@
+![[James Emil Avery, John Scales Avery - Hyperspherical Harmonics and their Physical Applications-World Scientific (2018).pdf]]
