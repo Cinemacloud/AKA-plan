@@ -1,8 +1,4 @@
-Map key CLI system utilities to ambients targeting template or custom decision branch.
-
-  
-
-Ie
+Map key CLI system utilities to ambients targeting template or custom decision branch
 
 1. Karpathy wordgenerator, feature extractor
 2. PDF write or io adaptor: pandoc
